@@ -15,8 +15,19 @@ Era uma vez, no reino dos girassois, uma garota bem serelepe de cabelos castanho
 =======
 ...um jovem qualquer
 >>>>>>> b25329ad632bd3a8c5f19159bdf0b95f14c3a298
+<<<<<<< HEAD
+____________________________________________________________________________________________
+=======
 >>>>>>> origin/introducao
+<<<<<<< HEAD
 E aí eles morreram esmagados pelo godzilla
+=======
+>>>>>>> be420d8ec91fa8e3e56c455f7fce75f2572fbe77
+
+Alice era uma bela e radiante jovem moradora do reino dos girassois. Num belo dia, enquanto passeava
+pelos bosques do vasto reino, notou que havia próximo aos musgos um Power Ranger caído. Mal sabia
+ela da sangrenta batalha que aquele bravo guerreiro havia passado nos últimos dias.
+>>>>>>> 2093ca4bfc502d2e395b20eef438a9f1bd3d31bd
 
 
 Conflito

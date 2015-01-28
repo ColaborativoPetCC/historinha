@@ -1,4 +1,4 @@
-Introdução
+﻿Introdução
 
 
 Conflito
@@ -8,3 +8,4 @@ Climax
 
 
 Desfecho
+Tá Tudo complicado, bug geral

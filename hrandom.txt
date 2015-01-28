@@ -1,6 +1,12 @@
 ﻿Introdução
 
+<<<<<<< HEAD
 Era uma vez, em uma cidade qualquer. Em um dia qualquer, de uma época qualquer... Um power ranger....
+=======
+Era uma vez, em uma cidade qualquer. Em um dia qualquer, de uma época qualquer..
+
+...um jovem qualquer
+>>>>>>> b25329ad632bd3a8c5f19159bdf0b95f14c3a298
 
 Conflito
 

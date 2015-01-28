@@ -68,8 +68,12 @@ Eles agoram eram servos de Cthulhu
    \ \ \ \ \/ / || \ \   \/
     \/  \|    \/ \/ |/
 
+<<<<<<< HEAD
 
 >>>>>>> 1677f955c5a6df740709502689f4e2e21c30c293
+=======
+Nice art! :D
+>>>>>>> aefffd152d787e5d94feba296cc18d8de8201bde
 
 Conflito
 

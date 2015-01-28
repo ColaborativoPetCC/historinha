@@ -1,3 +1,5 @@
+Título: O que falar desse git que mal conheço e já considero pakas?
+
 Introdução
 
 
@@ -8,4 +10,7 @@ Climax
 
 
 Desfecho
+<<<<<<< HEAD
 E eles viveram feliz para sempre.
+=======
+>>>>>>> b52b26e5bd7367e129498d8b0c2b928d09462fc8

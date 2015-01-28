@@ -1,9 +1,3 @@
-﻿Introdução
-
-
-Conflito
-
-
 Climax
 Após mil anos de conflito entre os clãs filhos da ordem de Cthulhu. Finalmente, o herdeiro do sangue impuro obteve sucesso em sua
 missão milenar. Ele está em posse do último artefato, forjado do sangue do próprio:
@@ -36,6 +30,5 @@ missão milenar. Ele está em posse do último artefato, forjado do sangue do pr
                \V/
                 V
 
-Desfecho
-Tá Tudo complicado, bug geral
+
 FIM

@@ -1,6 +1,10 @@
-Introdução
+﻿Introdução
 
+<<<<<<< HEAD
 Era uma vez uma garota serelepe que vivia nos reino dos girassois
+=======
+Era uma vez, em uma cidade qualquer. Em um dia qualquer, de uma época qualquer...
+>>>>>>> eb2a8ad7eb9fb3cf82c8040a96a229e96f5c884b
 
 Conflito
 

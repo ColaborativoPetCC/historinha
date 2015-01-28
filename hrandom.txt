@@ -9,4 +9,8 @@ Climax
 
 Desfecho
 Tá Tudo complicado, bug geral
+<<<<<<< HEAD
 poe complicado...
+=======
+FIM
+>>>>>>> 4eb28babb053e6fd1e2085743c842bd43fa84b39

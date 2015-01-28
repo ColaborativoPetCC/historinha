@@ -1,6 +1,7 @@
 ﻿Introdução
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Era uma vez, em uma cidade qualquer, em um dia qualquer, de uma época qualquer, Alice. Alice era uma bela e radiante jovem, serelepe, de cabelos castanhos e olhos verdes,  moradora do reino dos girassois. Num belo dia, enquanto passeava pelos bosques do vasto reino, notou que havia próximo aos musgos um Power Ranger caído. Mal sabia ela da sangrenta batalha que aquele bravo guerreiro havia passado nos últimos dias. Uma sangrenta batalha contra Ivan Ozze. Mesmo desmaiado, seus olhares se cruzaram.
 =======
 <<<<<<< HEAD
@@ -27,11 +28,13 @@ E aí eles morreram esmagados pelo godzilla
 =======
 >>>>>>> be420d8ec91fa8e3e56c455f7fce75f2572fbe77
 
+=======
+>>>>>>> ee2362d7a56acacc84f7f3753264b34694940683
 Alice era uma bela e radiante jovem moradora do reino dos girassois. Num belo dia, enquanto passeava
 pelos bosques do vasto reino, notou que havia próximo aos musgos um Power Ranger caído. Mal sabia
 ela da sangrenta batalha que aquele bravo guerreiro havia passado nos últimos dias.
->>>>>>> 2093ca4bfc502d2e395b20eef438a9f1bd3d31bd
 
+E aí eles morreram esmagados pelo godzilla
 
 Eles agoram eram servos de Cthulhu
 

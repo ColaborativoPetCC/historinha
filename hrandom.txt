@@ -1,4 +1,67 @@
-Introdução
+﻿Introdução
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+Era uma vez, em uma cidade qualquer. Em um dia qualquer, de uma época qualquer... Um power ranger....
+vindo de uma batalha sangrenta contra Ivan Ozze...
+=======
+Era uma vez, em uma cidade qualquer. Em um dia qualquer, de uma época qualquer..
+=======
+Era uma vez, no reino dos girassois, uma garota bem serelepe de cabelos castanhos e olhos verdes. Em um dia qualquer, enquanto ela passeava...
+>>>>>>> 253c130e9a4e3fb6d267b2a952253fd6134fbf9e
+
+<<<<<<< HEAD
+...um jovem qualquer a viu passeando. E então eles cruzaram olhares.
+=======
+...um jovem qualquer
+>>>>>>> b25329ad632bd3a8c5f19159bdf0b95f14c3a298
+<<<<<<< HEAD
+____________________________________________________________________________________________
+=======
+>>>>>>> origin/introducao
+<<<<<<< HEAD
+E aí eles morreram esmagados pelo godzilla
+=======
+>>>>>>> be420d8ec91fa8e3e56c455f7fce75f2572fbe77
+
+Alice era uma bela e radiante jovem moradora do reino dos girassois. Num belo dia, enquanto passeava
+pelos bosques do vasto reino, notou que havia próximo aos musgos um Power Ranger caído. Mal sabia
+ela da sangrenta batalha que aquele bravo guerreiro havia passado nos últimos dias.
+>>>>>>> 2093ca4bfc502d2e395b20eef438a9f1bd3d31bd
+
+
+Eles agoram eram servos de Cthulhu
+
+            _.---._
+        .-'         '-.
+     .'                 '.
+    '       '.   .'       '
+   / /        \ /        \ \
+  '  |         :         |  '
+ /   |         .         |   \
+ |   \         |         /   |
+ '. . \        |        / . .'
+  |   .\      .'.      /.   |
+  \  .  `-           -'  .  /
+   '.      .. ... ..      .'
+    |  `` ` .     . ` ``  |
+    | .-_-.  '. .'  .-_-. |
+   .'( (O) )|  :  |( (O) )'.
+    \.'---'/   :   \'---'./
+      \_ .'  . ' .  '. _/
+     .' /             \ '.
+     './ / /  / \ \  \ \.'
+      : | | /|  : |  | :
+      | : | \\  | '  : |
+      | /\ \/ \ | : /\ :
+      ' :/\ \ : ' ||  \ \
+      / | /\ \| : ' \  \ \
+     / / /  \/ /| :  |  \ \
+    / / :   / /\ \ \ /   \ \
+   ' /\ \  | /\ :.\ \    / |
+   \ \ \ \ \/ / || \ \   \/
+    \/  \|    \/ \/ |/
+
 
 
 Conflito
